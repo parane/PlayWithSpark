@@ -1,0 +1,50 @@
+{"numFound":16,"start":0,"docs":[
+      {
+        "auditLog":"2*C29*ATTRIB_399*ATTRIB_422*N29*Budgetary2*No2*O20*0*",
+        "dbLastUpdatedDate":"2018-09-01T01:09:19Z"},
+      {
+        "auditLog":"2*C19*ATTRIB_422*N10*2*O12*No",
+        "dbLastUpdatedDate":"2018-09-01T01:09:43Z"},
+      {
+        "auditLog":"2*C19*ATTRIB_392*N16*Formal2*O19*Budgetary",
+        "dbLastUpdatedDate":"2018-09-01T01:09:48Z"},
+      {
+        "auditLog":"2*C19*ATTRIB_412*N16*Brazil2*O10*",
+        "dbLastUpdatedDate":"2018-09-01T01:10:28Z"},
+      {
+        "auditLog":"3*C1210*CON_PER_ID8*CURCY_CD22*X_MACD_SIGN_BYPASS_FLG17*X__DELETE_POF_FLG10*EFF_END_DT15*DISPLAY_TYPE_CD7*REV_NUM12*EFF_START_DT7*STAT_CD10*X_WWCS_FLG14*X_WWCS_NO_BOOK13*X_WWCS_STATUS3*N1215*No Match Row Id3*BRL1*N1*N10*2018-09-023*New1*110*2018-09-015*Draft1*N1*N13*Not Initiated3*O120*0*0*0*0*0*0*0*0*0*0*0*",
+        "dbLastUpdatedDate":"2018-09-01T01:09:19Z"},
+      {
+        "auditLog":"2*C110*CON_PER_ID2*N110*1-241L87P62*O115*No Match Row Id",
+        "dbLastUpdatedDate":"2018-09-01T01:09:37Z"},
+      {
+        "auditLog":"2*C115*DISPLAY_TYPE_CD2*N19*Amendment2*O13*New",
+        "dbLastUpdatedDate":"2018-09-01T01:09:43Z"},
+      {
+        "auditLog":"2*C112*X_EQX_ATTR_62*N136*nonprod@Globaluatglobalqaequinix.com2*O10*",
+        "dbLastUpdatedDate":"2018-09-01T01:10:28Z"},
+      {
+        "auditLog":"2*C112*X_CAP_REQ_ID2*N17*1-7OBIB2*O10*",
+        "dbLastUpdatedDate":"2018-09-01T01:12:05Z"},
+      {
+        "auditLog":"2*C112*X_EQX_ATTR_62*N136*nonprod@globaluatglobalqaequinix.com2*O136*nonprod@Globaluatglobalqaequinix.com",
+        "dbLastUpdatedDate":"2018-09-01T01:12:12Z"},
+      {
+        "auditLog":"2*C17*STAT_CD2*N116*Pending Approval2*O15*Draft",
+        "dbLastUpdatedDate":"2018-09-01T01:12:14Z"},
+      {
+        "auditLog":"2*C17*STAT_CD2*N18*Approved2*O116*Pending Approval",
+        "dbLastUpdatedDate":"2018-09-01T01:13:29Z"},
+      {
+        "auditLog":"2*C17*STAT_CD2*N117*Customer Accepted2*O18*Approved",
+        "dbLastUpdatedDate":"2018-09-01T01:14:39Z"},
+      {
+        "auditLog":"2*C117*X_INTERFACE_ERROR2*N165*Quote to Order Process has been Initiated at :09/01/2018 01:15:362*O10*",
+        "dbLastUpdatedDate":"2018-09-01T01:14:44Z"},
+      {
+        "auditLog":"2*C17*STAT_CD2*N115*Order Submitted2*O117*Customer Accepted",
+        "dbLastUpdatedDate":"2018-09-01T01:14:46Z"},
+      {
+        "auditLog":"2*C117*X_INTERFACE_ERROR2*N165*Quote to Order Process has been Completed at :09/01/2018 01:16:122*O165*Quote to Order Process has been Initiated at :09/01/2018 01:15:36",
+        "dbLastUpdatedDate":"2018-09-01T01:15:20Z"}]
+  }}
